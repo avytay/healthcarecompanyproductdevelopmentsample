@@ -13,7 +13,7 @@ After its most recent round of funding, Aledade is seeking to grow its partnersh
 * Care Management: Aledade supports care coordination efforts by providing tools and resources to enhance communication and collaboration among healthcare providers. They help practices identify and manage high-risk patients and connect them to appropriate resources.
 * Regulatory Compliance: Aledade stays updated with evolving healthcare regulations and helps practices navigate the complex landscape. They offer guidance on compliance requirements, coding, and documentation to ensure adherence to regulatory standards.
 
-I created an assessment/development plan for one of these payer products, the Aledade App.
+I created an assessment/development sample plan for one of these payer products, the Aledade App.
 
 Aledade App Features:
 * Electronic Health Records
@@ -35,6 +35,8 @@ Critical soft skills needed to manage the development and execution phase of the
 Create a plan, identify the launch risks, and figure out how to minimize their impact on the launch. Prepare a product requirements document to define to the development and testing teams what capabilities must be included in a product release. Collaborate with a variety of teams including Marketing, Sales, Customer Support, and more to prepare them to interface with customers as the product is launched. Execute the launch and use feedback from customers to determine the next steps for the product.  
 * Step 5: [Product Management]
 
+
+Step 1 is demonstrated as a sample...
 
 ## Problem Validation
 
