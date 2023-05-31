@@ -32,7 +32,7 @@ Take an idea through concept, design, and user validation phases, and create a s
 * Step 3: [Product Development] 
 Critical soft skills needed to manage the development and execution phase of the product. Collaborate with cross-functional teams and stakeholders to guide them through planning and execution. Manage stakeholder expectations and handle risks that arise, reprioritizing feature and sprint priorities to tackle competing requests.
 * Step 4: [Go-to-Market] 
-Create a plan, identify the launch risks, and figure out how to minimize their impact on the launch. Prepare a product requirements document to define to the development and testing teams what capabilities must be included in a product release. Collaborate with a variety of teams including Marketing, Sales, Customer Support, and more to prepare them to interface with customers as the product is launched. Execute the launch and use feedback from customers to determine the next steps for your product.  
+Create a plan, identify the launch risks, and figure out how to minimize their impact on the launch. Prepare a product requirements document to define to the development and testing teams what capabilities must be included in a product release. Collaborate with a variety of teams including Marketing, Sales, Customer Support, and more to prepare them to interface with customers as the product is launched. Execute the launch and use feedback from customers to determine the next steps for the product.  
 * Step 5: [Product Management]
 
 
@@ -40,8 +40,8 @@ Create a plan, identify the launch risks, and figure out how to minimize their i
 
 ### What are the most successful and utilized features of the Aledade App?
 
- <img width="1495" alt="validation-spectrum Gitlab" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/32844cac-4400-43a4-9a9d-bf8837b3d006">
- 
+ <img width="628" alt="Screen Shot 2023-05-31 at 2 01 07 PM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/22df06fc-466f-4630-a2bb-68ab93e0ac48">
+
 #### Validation Goals and Outcomes
 * Understand the user problem we are trying to solve.
 * Identify business goals and key metrics to determine success.
@@ -49,7 +49,7 @@ Create a plan, identify the launch risks, and figure out how to minimize their i
 * Define potential future iterations.
 * Minimize risks to value, usability, feasibility, and business viability with qualitative and quantitative analysis.
 
-<img width="735" alt="Screen Shot 2023-05-30 at 11 39 28 PM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/f2322215-e41b-41f4-ace6-c9a2efa00441">
+<img width="655" alt="Screen Shot 2023-05-31 at 2 00 21 PM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/e8645fe2-22df-4d08-a42d-f5f44a96a70f">
 
 #### General Flaws That Users May Experience With Healthcare Software Applications
 * Technical Issues: Software applications can encounter technical glitches, such as slow performance, crashes, or compatibility issues with specific devices or operating systems. These issues can affect user experience and productivity.
