@@ -69,34 +69,35 @@ Step 4: Run SQL queries
 Write SQL queries to extract and aggregate the necessary data from the relevant tables. The queries should count the number of times each app feature has been utilized by users. 
 
 Example Code:
+<img width="785" alt="Screen Shot 2023-05-31 at 12 21 40 AM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/8ed11993-11a0-444c-a221-ea8746fd4e78">
 
-SELECT 'Electronic Health Records' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Electronic Health Records'
-UNION ALL
-SELECT 'Wellness Worklists' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Wellness Worklists'
-UNION ALL
-SELECT 'ED Utilization' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'ED Utilization'
-UNION ALL
-SELECT 'Payer Claims' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Payer Claims'
-UNION ALL
-SELECT 'Population Health Tools' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Population Health Tools'
-UNION ALL
-SELECT 'Daily Huddles' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Daily Huddles'
-UNION ALL
-SELECT 'Practice-Generated Insights' AS AppFeature, COUNT(*) AS Utilization
-FROM user_activity
-WHERE app_feature = 'Practice-Generated Insights';
+* SELECT 'Electronic Health Records' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Electronic Health Records'
+* UNION ALL
+* SELECT 'Wellness Worklists' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Wellness Worklists'
+* UNION ALL
+* SELECT 'ED Utilization' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'ED Utilization'
+* UNION ALL
+* SELECT 'Payer Claims' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Payer Claims'
+* UNION ALL
+* SELECT 'Population Health Tools' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Population Health Tools'
+* UNION ALL
+* SELECT 'Daily Huddles' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Daily Huddles'
+* UNION ALL
+* SELECT 'Practice-Generated Insights' AS AppFeature, COUNT(*) AS Utilization
+* FROM user_activity
+* WHERE app_feature = 'Practice-Generated Insights';
 
 Step 5: Execute the query
 Execute the SQL query against the database to retrieve the utilization count for each app feature.
