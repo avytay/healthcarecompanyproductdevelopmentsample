@@ -75,7 +75,7 @@ Step 4: Run SQL queries
 Write SQL queries to extract and aggregate the necessary data from the relevant tables. The queries should count the number of times each app feature has been utilized by users. 
 
 Example Code:
-<img width="785" alt="Screen Shot 2023-05-31 at 12 21 40 AM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/8ed11993-11a0-444c-a221-ea8746fd4e78">
+<img width="572" alt="Screen Shot 2023-05-31 at 2 03 10 PM" src="https://github.com/avytay/healthcarecompanyproductdevelopmentsample/assets/134718877/ece9b40b-5ba0-4646-a803-d21a8737731f">
 
 * SELECT 'Electronic Health Records' AS AppFeature, COUNT(*) AS Utilization
 * FROM user_activity
